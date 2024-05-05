@@ -1,0 +1,26 @@
+A. Command in command line
+1. Change directory folder:
+cd Folder1
+cd Folder1/sub-folder ( thu muc con) 
+cd .. : back to previsous folder
+
+2. Create new folder
+mkdir NewFolder
+mkdir NewFolder1 Newfolder2 Newfolder3
+
+3. Create new file
+touch file1.txt ( touch - create new empty file)
+
+4. Move file
+mv file1.txt/folder1 (move file1 to folder1)
+
+mv file1.txt file2.txt ( change name file1 to file2)
+
+5. Copy file
+cp file1.txt file2.txt (copy noi dung file1 & tao sang file2)
+
+6. Open
+open file1.txt 
+
+open ~/Deskop
+
